@@ -23,3 +23,6 @@ console.log(person.address);
 
 const age =undefined;
 console.log(age);
+
+let ages =[12,43,18];
+console.log([7]);
